@@ -1,0 +1,636 @@
+.header-child5 {
+  width: 1440px;
+  height: 180px;
+  position: relative;
+  background-color: var(--color-limegreen);
+  display: none;
+  max-width: 100%;
+}
+.ecomart8 {
+  margin: 0;
+  align-self: stretch;
+  height: 69px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  text-shadow: 2px 0 0 rgba(0, 0, 0, 0.75), 0 2px 0 rgba(0, 0, 0, 0.75),
+    -2px 0 0 rgba(0, 0, 0, 0.75), 0-2px 0 rgba(0, 0, 0, 0.75);
+  z-index: 1;
+}
+.frame-frame2 {
+  width: 521px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 1.1000000000000227px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.mdileaf-icon7 {
+  height: 76.1px;
+  width: 73px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 1;
+  margin-left: -132px;
+}
+.frame-frame,
+.frame-frame1 {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame-frame1 {
+  width: 521px;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-frame {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: center;
+}
+.frame-frame-child {
+  height: 37px;
+  width: 177px;
+  position: absolute;
+  margin: 0 !important;
+  right: -33px;
+  bottom: -21px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 2;
+}
+.frame-frame3,
+.product-list5 {
+  align-self: stretch;
+  position: relative;
+}
+.product-list5 {
+  flex: 1;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  white-space: nowrap;
+  z-index: 3;
+}
+.frame-frame3 {
+  width: 118px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-frame-item {
+  height: 37px;
+  width: 177px;
+  position: absolute;
+  margin: 0 !important;
+  right: -33px;
+  bottom: -21px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gainsboro-100);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 2;
+}
+.back-to-home7 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  white-space: nowrap;
+  z-index: 3;
+}
+.frame-frame4 {
+  width: 118px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.frame-frame-parent,
+.frame-frame4,
+.header6 {
+  align-self: stretch;
+  display: flex;
+}
+.frame-frame-parent {
+  height: 18px;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-inknut-antiqua);
+}
+.header6 {
+  background-color: var(--color-limegreen);
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: var(--padding-33xl) var(--padding-20xl) var(--padding-12xl)
+    var(--padding-13xl);
+  box-sizing: border-box;
+  gap: var(--gap-10xs-9);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-61xl);
+  color: var(--color-white);
+  font-family: var(--font-passion-one);
+}
+.product-info2-child {
+  width: 100%;
+  height: 105px;
+  position: absolute;
+  margin: 0 !important;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-child31 {
+  height: 599.6px;
+  width: 654px;
+  position: relative;
+  border-radius: var(--br-xl);
+  background-color: var(--color-linen);
+  display: none;
+  max-width: 100%;
+}
+.dln2pmil-2-icon {
+  height: 507px;
+  width: 457px;
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  z-index: 1;
+}
+.rectangle-parent27 {
+  flex: 1;
+  border-radius: var(--br-xl);
+  background-color: var(--color-linen);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-22xl) var(--padding-xl) var(--padding-22xl)
+    var(--padding-10xl);
+  box-sizing: border-box;
+  min-width: 425px;
+  max-width: 100%;
+}
+.blank-line1,
+.kitchen-towels-made,
+.reusable-upto-2001,
+.with-the-fragnance {
+  margin-block-start: 0;
+  margin-block-end: 2px;
+}
+.of-the-box {
+  margin: 0;
+}
+.kitchen-towels-made-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+}
+.material-symbolsstar-icon16,
+.material-symbolsstar-icon17 {
+  position: absolute;
+  top: 294px;
+  left: 0;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+  z-index: 1;
+}
+.material-symbolsstar-icon17 {
+  left: 32px;
+  z-index: 2;
+}
+.material-symbolsstar-icon18,
+.material-symbolsstar-icon19,
+.mdistar-outline-icon4 {
+  position: absolute;
+  top: 294px;
+  left: 64px;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+  z-index: 3;
+}
+.material-symbolsstar-icon19,
+.mdistar-outline-icon4 {
+  left: 96px;
+  z-index: 4;
+}
+.mdistar-outline-icon4 {
+  left: 131px;
+  z-index: 1;
+}
+.pepicons-pencilline-x12,
+.text-frame {
+  align-self: stretch;
+  height: 329px;
+  position: relative;
+}
+.pepicons-pencilline-x12 {
+  height: 20px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.div5 {
+  height: 110px;
+  width: 225px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  min-width: 225px;
+  white-space: nowrap;
+}
+.frame-child32 {
+  height: 73px;
+  width: 168px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gold);
+  display: none;
+}
+.buy-now4 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inika);
+  color: var(--color-black);
+  text-align: center;
+  z-index: 1;
+}
+.frame-child33,
+.rectangle-parent28 {
+  height: 73px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gold);
+}
+.rectangle-parent28 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-base) var(--padding-5xl)
+    var(--padding-xl);
+  width: 168px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 1;
+}
+.rectangle-parent28:hover {
+  background-color: var(--color-darkgoldenrod);
+}
+.frame-child33 {
+  width: 187px;
+  position: relative;
+  display: none;
+}
+.add-to-cart4 {
+  height: 33px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.rectangle-parent29 {
+  flex: 1;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-gold);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-direction: row;
+  padding: var(--padding-lg) 0 var(--padding-3xl) 1.099999999999909px;
+  box-sizing: border-box;
+  min-width: 122px;
+  white-space: nowrap;
+  cursor: pointer;
+}
+.arrival-date-frame-inner,
+.frame-parent19,
+.rectangle-parent29 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent19 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0 21px;
+}
+.arrival-date-frame-inner {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+  min-width: 244px;
+  max-width: 100%;
+  margin-left: -5px;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inika);
+}
+.arrival-date-frame3 {
+  flex: 1;
+  flex-direction: row;
+  row-gap: 20px;
+}
+.arrival-date-frame3,
+.delivery-frame3,
+.location-frame1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.delivery-frame3 {
+  width: 600px;
+  flex-direction: row;
+  padding: 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.location-frame1 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 7px 0;
+}
+.pepicons-pencilline-x13 {
+  align-self: stretch;
+  height: 20px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  margin-top: -16px;
+}
+.divider-line,
+.product-description-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.divider-line {
+  flex: 1;
+  flex-direction: column;
+}
+.product-description-frame {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-10xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-41xl);
+}
+.delivering-to-ahmedabad4 {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  min-width: 190px;
+}
+.arrive-by4,
+.tuesday-23rd4 {
+  margin: 0;
+}
+.arrive-by-tuesday-container4 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.arrival-date-frame4,
+.in-stock-frame1,
+.product-list-frame {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.product-list-frame {
+  height: 75px;
+  width: 266px;
+  flex-direction: column;
+  padding: var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+}
+.arrival-date-frame4,
+.in-stock-frame1 {
+  flex-direction: row;
+  max-width: 100%;
+}
+.in-stock-frame1 {
+  flex: 1;
+  gap: 0 30px;
+}
+.arrival-date-frame4 {
+  width: 595px;
+  padding: 0 var(--padding-10xs);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inika);
+}
+.frame-frame8 {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 14px 0;
+}
+.frame-frame6,
+.frame-frame7,
+.frame-frame8 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-frame7 {
+  width: 620px;
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  min-width: 620px;
+}
+.frame-frame6 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 0 90px;
+}
+.free-delivery4,
+.in-stock4 {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.in-stock4 {
+  width: 124px;
+}
+.free-delivery4 {
+  align-self: stretch;
+  height: 51px;
+}
+.free-delivery-info {
+  width: 274px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+}
+.in-stock-group {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: var(--gap-xl);
+}
+.frame-frame-inner,
+.frame-frame5 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-frame-inner {
+  width: 546px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-smi);
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-inika);
+}
+.frame-frame5 {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 40.4px 0;
+}
+.kitchen-text,
+.product-info2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.kitchen-text {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 var(--padding-16xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-poly);
+}
+.product-info2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  padding: 0 0 var(--padding-17xl);
+  gap: 116px 0;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1125px) {
+  .frame-frame7 {
+    flex: 1;
+  }
+  .frame-frame6 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .kitchen-towels-made-container {
+    font-size: var(--font-size-13xl);
+  }
+  .div5 {
+    font-size: var(--font-size-29xl);
+  }
+  .arrive-by-tuesday-container4,
+  .delivering-to-ahmedabad4,
+  .free-delivery4,
+  .in-stock4 {
+    font-size: var(--font-size-5xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .rectangle-parent27 {
+    padding-top: var(--padding-8xl);
+    padding-bottom: var(--padding-8xl);
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .div5 {
+    flex: 1;
+  }
+  .arrival-date-frame3,
+  .in-stock-frame1 {
+    flex-wrap: wrap;
+  }
+  .frame-frame7 {
+    min-width: 100%;
+  }
+  .frame-frame6 {
+    gap: 0 45px;
+  }
+  .in-stock-group {
+    flex-wrap: wrap;
+  }
+  .frame-frame5 {
+    gap: 20px 0;
+  }
+  .product-info2 {
+    gap: 58px 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .kitchen-towels-made-container {
+    font-size: var(--font-size-5xl);
+  }
+  .div5 {
+    font-size: var(--font-size-17xl);
+  }
+  .frame-parent19 {
+    flex-wrap: wrap;
+  }
+  .arrival-date-frame-inner {
+    margin-left: 0;
+  }
+  .arrive-by-tuesday-container4,
+  .delivering-to-ahmedabad4 {
+    font-size: var(--font-size-lg);
+  }
+  .frame-frame6 {
+    gap: 0 22px;
+  }
+  .free-delivery4,
+  .in-stock4 {
+    font-size: var(--font-size-lg);
+  }
+  .product-info2 {
+    gap: 29px 0;
+  }
+}

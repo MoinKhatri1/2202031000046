@@ -1,0 +1,391 @@
+.vaadinline-v {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 189px;
+  height: 353px;
+  overflow: hidden;
+  display: none;
+}
+.contact-us-box,
+.vector-icon2 {
+  position: absolute;
+  height: 65.53%;
+  width: 0.83%;
+  top: 34.47%;
+  right: 55%;
+  bottom: 0;
+  left: 44.17%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.contact-us-box {
+  height: 1.32%;
+  width: 55.83%;
+  top: 34.38%;
+  right: 0;
+  bottom: 64.3%;
+  object-fit: contain;
+  z-index: 1;
+}
+.contact-us1 {
+  position: absolute;
+  top: 63px;
+  left: 567px;
+  font-size: 150px;
+  font-family: var(--font-palanquin-dark);
+  color: var(--color-black);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 911px;
+  height: 193px;
+}
+.designer-removebg-preview-1-icon {
+  position: absolute;
+  top: 140px;
+  left: -12px;
+  width: 648px;
+  height: 744px;
+  object-fit: cover;
+  z-index: 1;
+}
+.full-name {
+  width: 323px;
+  height: 66px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+}
+.full-name-parent,
+.vector-icon3 {
+  align-self: stretch;
+  max-width: 100%;
+}
+.vector-icon3 {
+  height: 4px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.full-name-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.e-mail,
+.vector-icon4 {
+  position: relative;
+  flex-shrink: 0;
+}
+.e-mail {
+  width: 291.1px;
+  height: 66px;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+}
+.vector-icon4 {
+  align-self: stretch;
+  height: 4px;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: contain;
+}
+.e-mail-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-17xl);
+}
+.message,
+.vector-icon5 {
+  position: relative;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.message {
+  width: 323px;
+  height: 66px;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+  padding-right: var(--padding-xl);
+}
+.vector-icon5 {
+  align-self: stretch;
+  height: 4px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.group-container,
+.message-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.message-parent {
+  align-self: stretch;
+  gap: var(--gap-17xl);
+}
+.group-container {
+  position: absolute;
+  top: 385px;
+  left: 669px;
+  width: 391px;
+  gap: 46px 0;
+  font-size: var(--font-size-21xl);
+}
+.vector-icon6,
+.vector-icon7 {
+  position: absolute;
+  height: 64.26%;
+  width: 0.49%;
+  top: 35.74%;
+  right: 24.38%;
+  bottom: 0;
+  left: 75.14%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.vector-icon7 {
+  height: 0.68%;
+  width: 24.38%;
+  top: 74.41%;
+  right: 0;
+  bottom: 24.9%;
+  left: 75.63%;
+  object-fit: contain;
+}
+.frame-child39 {
+  height: 94.1px;
+  width: 271px;
+  position: relative;
+  border-radius: var(--br-41xl);
+  background-color: var(--color-black);
+  display: none;
+}
+.send-message {
+  height: 45.3px;
+  flex: 1;
+  position: relative;
+  font-size: 35px;
+  font-family: var(--font-palanquin-dark);
+  color: var(--color-white);
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  padding-right: 0;
+  z-index: 1;
+}
+.rectangle-parent34 {
+  cursor: pointer;
+  border: 0;
+  padding: 20.200000000000003px 8.900000000000091px 28.59999999999999px;
+  background-color: var(--color-black);
+  position: absolute;
+  top: 837px;
+  left: 720px;
+  border-radius: var(--br-41xl);
+  width: 271px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.rectangle-parent34:hover {
+  background-color: #333;
+}
+.contact1 {
+  top: 413.7px;
+  left: 1110px;
+  text-align: center;
+  justify-content: center;
+  width: 241px;
+  height: 76.9px;
+}
+.based-in,
+.contact1,
+.contactinfigemgmailcom {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.contactinfigemgmailcom {
+  top: 479.9px;
+  left: 1147px;
+  font-size: var(--font-size-xl);
+  width: 263px;
+  height: 34.2px;
+  white-space: nowrap;
+}
+.based-in {
+  top: 591.1px;
+  left: 1120px;
+  text-align: center;
+  justify-content: center;
+  width: 241px;
+  height: 77.1px;
+}
+.gujarat,
+.mundra-kutch {
+  margin: 0;
+}
+.mundra-kutch-gujarat-txt-container {
+  line-break: anywhere;
+  width: 100%;
+}
+.mundra-kutch-gujarat,
+.socials {
+  position: absolute;
+  display: flex;
+  align-items: center;
+}
+.mundra-kutch-gujarat {
+  top: 661.4px;
+  left: 1147px;
+  font-size: var(--font-size-xl);
+  line-height: 25px;
+  width: 263px;
+  z-index: 1;
+}
+.socials {
+  top: 793px;
+  left: 1144px;
+  text-align: center;
+  justify-content: center;
+  width: 241px;
+  height: 78px;
+}
+.rifacebook-fill-icon,
+.riinstagram-fill-icon,
+.riwhatsapp-fill-icon {
+  position: absolute;
+  top: 895px;
+  left: 1161px;
+  width: 62px;
+  height: 62px;
+  overflow: hidden;
+}
+.riinstagram-fill-icon,
+.riwhatsapp-fill-icon {
+  left: 1234px;
+}
+.riinstagram-fill-icon {
+  left: 1307px;
+}
+.frame-child40 {
+  height: 43px;
+  width: 234px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  display: none;
+}
+.back-to-home10 {
+  height: 23px;
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-inknut-antiqua);
+  color: var(--color-black);
+  text-align: center;
+  display: inline-block;
+  z-index: 1;
+}
+.vector-parent1 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-8xs) var(--padding-8xl) var(--padding-mini)
+    var(--padding-7xl);
+  background-color: var(--color-gainsboro-100);
+  position: absolute;
+  height: 4.2%;
+  width: 16.25%;
+  top: 94.24%;
+  right: 82.01%;
+  bottom: 1.56%;
+  left: 1.74%;
+  border-radius: var(--br-11xl);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.vector-parent1:hover {
+  background-color: var(--color-silver);
+}
+.contact-us {
+  width: 100%;
+  height: 1024px;
+  position: relative;
+  background-color: var(--color-linen);
+  overflow: hidden;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-palanquin-dark);
+}
+@media screen and (max-width: 750px) {
+  .contact-us1 {
+    font-size: var(--font-size-41xl);
+  }
+  .e-mail,
+  .full-name,
+  .message {
+    font-size: var(--font-size-13xl);
+  }
+  .based-in,
+  .contact1,
+  .socials {
+    font-size: var(--font-size-21xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .contact-us1 {
+    font-size: 37px;
+  }
+  .e-mail,
+  .full-name,
+  .message {
+    font-size: var(--font-size-5xl);
+  }
+  .contact1 {
+    font-size: var(--font-size-11xl);
+  }
+  .contactinfigemgmailcom {
+    font-size: var(--font-size-base);
+  }
+  .based-in {
+    font-size: var(--font-size-11xl);
+  }
+  .mundra-kutch-gujarat {
+    font-size: var(--font-size-base);
+    line-height: 20px;
+  }
+  .socials {
+    font-size: var(--font-size-11xl);
+  }
+}
